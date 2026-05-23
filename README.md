@@ -1,3 +1,4 @@
+
 # Nova-Tech-Day-3
 Built a highly available and scalable web application architecture for NovaTech using EC2, Application Load Balancer (ALB), Auto Scaling Groups (ASG), IAM, AMI, Launch Templates, and CloudWatch monitoring.
 
@@ -18,6 +19,9 @@ inability to handle traffic spikes efficiently
 # Architecture
 
 Users → Application Load Balancer → Auto Scaling Group → EC2 Web Servers
+
+<img width="1091" height="531" alt="day 3" src="https://github.com/user-attachments/assets/a58f3a60-2c2b-435b-b343-3638954a446b" />
+
 
 
 # Aws Services Used
